@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/dw-common" />
             <option value="$PROJECT_DIR$/dw-logger" />
             <option value="$PROJECT_DIR$/dw-mocker" />
+            <option value="$PROJECT_DIR$/dw-realtime" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />

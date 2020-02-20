@@ -1,0 +1,38 @@
+allprojects {
+
+    apply plugin: 'java'
+
+    group 'com.gdj'
+    version '1.0-SNAPSHOT'
+
+    sourceCompatibility = 1.8
+    repositories {
+        mavenLocal()
+        maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+        mavenCentral()
+    }
+
+    dependencies {
+        compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.11.1'
+        compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.11.1'
+
+    }
+}
+
+
+//dependencies {
+//    compile group: 'com.alibaba', name: 'fastjson', version: '1.2.47'
+//    compile group: 'org.apache.spark', name: 'spark-hive_2.11', version: '2.1.1'
+//    compile group: 'org.apache.spark', name: 'spark-sql_2.11', version: '2.1.1'
+//    compile group: 'org.apache.spark', name: 'spark-streaming_2.11', version: '2.1.1'
+//    compile group: 'org.apache.spark', name: 'spark-streaming-kafka-0-8_2.11', version: '2.1.1'
+//    compile "org.scala-lang:scala-library:2.11.7"
+//    compile "org.scala-lang:scala-compiler:2.11.7"
+//    compile "org.scala-lang:scala-reflect:2.11.7"
+//}
+
+//jar {
+//    manifest {
+//        attributes 'Main-Class': 'AppDemo'
+//    }
+//}

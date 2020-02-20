@@ -3,4 +3,5 @@ include 'dw-common'
 include 'dw-mocker'
 include 'dw-logger'
 include 'dw-realtime'
+include 'dw-publisher'
 

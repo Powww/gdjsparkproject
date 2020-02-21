@@ -1,0 +1,7 @@
+dependencies {
+    compile project(path: ":dw-common")
+    compile group: 'com.alibaba.otter', name: 'canal.client', version: '1.1.2'
+// https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients
+    compile group: 'org.apache.kafka', name: 'kafka-clients', version: '0.11.0.2'
+
+}

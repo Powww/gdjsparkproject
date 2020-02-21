@@ -8,11 +8,11 @@ dependencies {
         exclude group: 'org.springframework.boot', module: 'spring-boot-starter-logging'
     }
     compile group: 'org.springframework.boot', name: 'spring-boot-starter-log4j2'
-
-    implementation 'org.springframework.kafka:spring-kafka'
     testImplementation('org.springframework.boot:spring-boot-starter-test') {
         exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
     }
+    implementation 'org.springframework.kafka:spring-kafka'
+
     testImplementation 'org.springframework.kafka:spring-kafka-test'
 
     annotationProcessor 'org.projectlombok:lombok:1.18.2'

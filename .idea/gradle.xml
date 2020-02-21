@@ -9,6 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/dw-canal" />
+            <option value="$PROJECT_DIR$/dw-chart" />
             <option value="$PROJECT_DIR$/dw-common" />
             <option value="$PROJECT_DIR$/dw-logger" />
             <option value="$PROJECT_DIR$/dw-mocker" />

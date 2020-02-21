@@ -1,5 +1,5 @@
 plugins {
-    id 'org.springframework.boot' version '2.1.3.RELEASE'
+    id 'org.springframework.boot' version '1.5.10.RELEASE'
     id 'io.spring.dependency-management' version '1.0.9.RELEASE'
 }
 configurations {
@@ -9,6 +9,7 @@ configurations {
 }
 
 dependencies {
+// https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api
 
     implementation('org.springframework.boot:spring-boot-starter-web')
             {
@@ -34,6 +35,7 @@ dependencies {
         exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
     }
     compile(group: 'org.apache.phoenix', name: 'phoenix-core', version: '4.14.2-HBase-1.3') {
+        exclude group: 'org.mortbay.jetty', module: 'servlet-api-2.5'
         exclude group: 'javax.servlet', module: 'servlet-api'
     }
 

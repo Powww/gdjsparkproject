@@ -4,4 +4,6 @@ include 'dw-mocker'
 include 'dw-logger'
 include 'dw-realtime'
 include 'dw-publisher'
+include 'dw-canal'
+include 'dw-chart'
 

@@ -6,4 +6,5 @@ include 'dw-realtime'
 include 'dw-publisher'
 include 'dw-canal'
 include 'dw-chart'
+include 'es'
 

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.alibaba.otter:canal.client:1.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba.otter/canal.client/1.1.2/aa3955dfd689f85a43ddcfe242705ca06eaa2564/canal.client-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba.otter/canal.client/1.1.2/9460e7a2842c69de1eafdc191263a23440ab43aa/canal.client-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.tephra:tephra-core:0.14.0-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tephra/tephra-core/0.14.0-incubating/bd2099405bad01298f0c69a08c915750f0fa9996/tephra-core-0.14.0-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tephra/tephra-core/0.14.0-incubating/8435761dbe61b2ec611d4cfacf9b4ff0351c904e/tephra-core-0.14.0-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

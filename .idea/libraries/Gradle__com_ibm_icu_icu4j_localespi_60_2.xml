@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.icu:icu4j-localespi:60.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j-localespi/60.2/7c4f72e1b91b199936defaada7dc8c6ad3e0f2c/icu4j-localespi-60.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j-localespi/60.2/5c435f5773d5e599759ff2ef29dbe8844134950b/icu4j-localespi-60.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

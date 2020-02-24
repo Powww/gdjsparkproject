@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.icu:icu4j-charset:60.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j-charset/60.2/681a000eebe3a77bf68ba36460d6abcf4c57f534/icu4j-charset-60.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j-charset/60.2/222cefe302c6b0c28d38aef61f93ae1a695c8953/icu4j-charset-60.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

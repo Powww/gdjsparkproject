@@ -14,7 +14,6 @@
       <executable />
     </execution>
   </component>
-  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="JUnitGeneratorProjectSettings">
     <option name="outputFilePattern" value="${SOURCEPATH}/../../test/java/${PACKAGE}/${FILENAME}" />
     <option name="selectedTemplateKey" value="JUnit 4" />

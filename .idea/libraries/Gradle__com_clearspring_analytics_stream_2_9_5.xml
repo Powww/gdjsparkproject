@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.clearspring.analytics:stream:2.9.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.clearspring.analytics/stream/2.9.5/422b3fd1a2a38dc9ff9c9a2f6db9bda80962475e/stream-2.9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.clearspring.analytics/stream/2.9.5/bb9021a102bd0cb8b43836530abf853567781d57/stream-2.9.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

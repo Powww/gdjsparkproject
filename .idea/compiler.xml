@@ -18,5 +18,25 @@
         <module name="gdjsparkproject.dw-publisher.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gdjsparkproject.dw-canal.main" target="1.8" />
+      <module name="gdjsparkproject.dw-canal.test" target="1.8" />
+      <module name="gdjsparkproject.dw-chart.main" target="1.8" />
+      <module name="gdjsparkproject.dw-chart.test" target="1.8" />
+      <module name="gdjsparkproject.dw-common.main" target="1.8" />
+      <module name="gdjsparkproject.dw-common.test" target="1.8" />
+      <module name="gdjsparkproject.dw-logger.main" target="1.8" />
+      <module name="gdjsparkproject.dw-logger.test" target="1.8" />
+      <module name="gdjsparkproject.dw-mocker.main" target="1.8" />
+      <module name="gdjsparkproject.dw-mocker.test" target="1.8" />
+      <module name="gdjsparkproject.dw-publisher.main" target="1.8" />
+      <module name="gdjsparkproject.dw-publisher.test" target="1.8" />
+      <module name="gdjsparkproject.dw-realtime.main" target="1.8" />
+      <module name="gdjsparkproject.dw-realtime.test" target="1.8" />
+      <module name="gdjsparkproject.es.main" target="1.8" />
+      <module name="gdjsparkproject.es.test" target="1.8" />
+      <module name="gdjsparkproject.main" target="1.8" />
+      <module name="gdjsparkproject.test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

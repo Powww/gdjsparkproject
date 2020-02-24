@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.salesforce.i18n:i18n-util:1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.salesforce.i18n/i18n-util/1.0.4/8370801a09b6aca53caf6ed22d93b116a6e279d6/i18n-util-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.salesforce.i18n/i18n-util/1.0.4/fd010ef1410e89f5002dc4c060009b1195fe2558/i18n-util-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

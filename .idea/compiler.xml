@@ -8,17 +8,35 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.2/524e0a697e9d62950b2f763d88d35cd8dc82a9a1/lombok-1.18.2.jar" />
         </processorPath>
-        <module name="gdjsparkproject.dw-logger.main" />
+        <module name="com.gdj.gdjsparkproject.dw-logger.main" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.20/ac76d9b956045631d1561a09289cbf472e077c01/lombok-1.16.20.jar" />
         </processorPath>
-        <module name="gdjsparkproject.dw-publisher.main" />
+        <module name="com.gdj.gdjsparkproject.dw-publisher.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="com.gdj.gdjsparkproject.dw-canal.main" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-canal.test" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-chart.main" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-chart.test" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-common.main" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-common.test" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-logger.main" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-logger.test" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-mocker.main" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-mocker.test" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-publisher.main" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-publisher.test" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-realtime.main" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.dw-realtime.test" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.es.main" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.es.test" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.main" target="1.8" />
+      <module name="com.gdj.gdjsparkproject.test" target="1.8" />
       <module name="gdjsparkproject.dw-canal.main" target="1.8" />
       <module name="gdjsparkproject.dw-canal.test" target="1.8" />
       <module name="gdjsparkproject.dw-chart.main" target="1.8" />

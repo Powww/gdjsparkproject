@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/es.iml" filepath="$PROJECT_DIR$/.idea/modules/es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-canal/com.gdj.gdjsparkproject.dw-canal.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-canal/com.gdj.gdjsparkproject.dw-canal.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-canal/com.gdj.gdjsparkproject.dw-canal.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-canal/com.gdj.gdjsparkproject.dw-canal.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-chart/com.gdj.gdjsparkproject.dw-chart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-chart/com.gdj.gdjsparkproject.dw-chart.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-chart/com.gdj.gdjsparkproject.dw-chart.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-chart/com.gdj.gdjsparkproject.dw-chart.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-common/com.gdj.gdjsparkproject.dw-common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-common/com.gdj.gdjsparkproject.dw-common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-common/com.gdj.gdjsparkproject.dw-common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-common/com.gdj.gdjsparkproject.dw-common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-logger/com.gdj.gdjsparkproject.dw-logger.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-logger/com.gdj.gdjsparkproject.dw-logger.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-logger/com.gdj.gdjsparkproject.dw-logger.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-logger/com.gdj.gdjsparkproject.dw-logger.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-mocker/com.gdj.gdjsparkproject.dw-mocker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-mocker/com.gdj.gdjsparkproject.dw-mocker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-mocker/com.gdj.gdjsparkproject.dw-mocker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-mocker/com.gdj.gdjsparkproject.dw-mocker.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-publisher/com.gdj.gdjsparkproject.dw-publisher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-publisher/com.gdj.gdjsparkproject.dw-publisher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-publisher/com.gdj.gdjsparkproject.dw-publisher.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-publisher/com.gdj.gdjsparkproject.dw-publisher.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-realtime/com.gdj.gdjsparkproject.dw-realtime.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-realtime/com.gdj.gdjsparkproject.dw-realtime.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-realtime/com.gdj.gdjsparkproject.dw-realtime.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-realtime/com.gdj.gdjsparkproject.dw-realtime.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/es/com.gdj.gdjsparkproject.es.main.iml" filepath="$PROJECT_DIR$/.idea/modules/es/com.gdj.gdjsparkproject.es.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/es/com.gdj.gdjsparkproject.es.test.iml" filepath="$PROJECT_DIR$/.idea/modules/es/com.gdj.gdjsparkproject.es.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.gdj.gdjsparkproject.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.gdj.gdjsparkproject.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.gdj.gdjsparkproject.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.gdj.gdjsparkproject.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/gdjsparkproject.iml" filepath="$PROJECT_DIR$/gdjsparkproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-canal/gdjsparkproject.dw-canal.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-canal/gdjsparkproject.dw-canal.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dw-canal/gdjsparkproject.dw-canal.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dw-canal/gdjsparkproject.dw-canal.main.iml" />
